@@ -62,3 +62,5 @@ https://docs.scipy.org/doc/numpy-1.15.1/reference/generated/numpy.random.multino
 https://www.investopedia.com/terms/n/normaldistribution.asp
 
 https://www.umass.edu/wsp/resources/poisson/
+
+https://onlinecourses.science.psu.edu/stat414/node/140/
